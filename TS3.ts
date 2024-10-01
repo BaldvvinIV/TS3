@@ -44,7 +44,7 @@ const enum planets {
 const Planet11 = [planets.first, planets.second, planets.third, planets.fourth, planets.fifth, planets.sixth];
 
 enum fruits {
-    Apple = 1,
-    Orange = 2,
-    Banana = 3
+    first = "Apple",
+    second = "Banana",
+    third = "Orange"
 }
